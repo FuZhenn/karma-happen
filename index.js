@@ -5,7 +5,7 @@ var createPattern = function(file) {
 };
 
 var initHappen = function(files) {
-    files.unshift(pattern(require.resolve('happen')));
+    files.unshift(createPattern(require.resolve('happen')));
 };
 
 initHappen.$inject = ['config.files'];
