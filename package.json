@@ -1,0 +1,35 @@
+{
+  "name": "karma-happen",
+  "description": "Happen for Karma",
+  "keywords": [
+    "karma",
+    "karma-plugin",
+    "happen"
+  ],
+  "version": "0.1.0",
+  "main": "./index.js",
+  "author": {
+    "name": "wsw",
+    "email": "wsw0108@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wsw0108/karma-happen.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wsw0108/karma-happen/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.github.com/wsw0108/karma-happen/master/LICENSE"
+    }
+  ],
+  "peerDependencies": {
+    "karma": ">=0.10",
+    "happen": "*"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  }
+}
