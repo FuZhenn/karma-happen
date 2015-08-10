@@ -1,6 +1,6 @@
 # karma-happen
 
-link Karma and happen libarary.
+link Karma and happen library.
 
 Happen:
 
